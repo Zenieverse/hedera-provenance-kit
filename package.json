@@ -1,0 +1,1 @@
+{"name":"@zenieverse/provenance-frontend","version":"1.0.0","private":true,"scripts":{"build":"next build","lint":"next lint","test":"node --test"},"dependencies":{"next":"latest","react":"latest","react-dom":"latest"}}

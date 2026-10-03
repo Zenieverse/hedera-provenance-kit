@@ -1,0 +1,8 @@
+{
+  "name":"hedera-provenance-kit",
+  "description":"Privacy-preserving Hedera HCS provenance starter",
+  "framework":"nextjs",
+  "packages":["frontend","contracts"],
+  "services":["HCS","Mirror Node"],
+  "license":"MIT"
+}
